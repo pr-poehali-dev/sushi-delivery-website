@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           {/* Logo and About */}
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center mb-4">
-              <Icon name="Soup" className="h-8 w-8 text-brand-red mr-2" />
+              <Icon name="Soup" className="h-8 w-8 text-brand-green mr-2" />
               <span className="font-montserrat font-bold text-xl">
                 Качмаз(тест)
               </span>
@@ -21,25 +21,25 @@ const Footer: React.FC = () => {
             <div className="flex space-x-3 mt-4">
               <a
                 href="#"
-                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-red transition-colors"
+                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-green transition-colors"
               >
                 <Icon name="Instagram" className="h-5 w-5" />
               </a>
               <a
                 href="#"
-                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-red transition-colors"
+                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-green transition-colors"
               >
                 <Icon name="Facebook" className="h-5 w-5" />
               </a>
               <a
                 href="#"
-                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-red transition-colors"
+                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-green transition-colors"
               >
                 <Icon name="Telegram" className="h-5 w-5" />
               </a>
               <a
                 href="#"
-                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-red transition-colors"
+                className="h-9 w-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-green transition-colors"
               >
                 <Icon name="Phone" className="h-5 w-5" />
               </a>
